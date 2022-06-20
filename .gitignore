@@ -1,0 +1,12 @@
+# Visual Studio intermediate files
+.vs
+
+# Visual Studio Code user settings
+.vscode
+
+# Artifacts and intermediate files
+build
+temp
+
+# Visual Studio user project settings
+*.vcxproj.user
